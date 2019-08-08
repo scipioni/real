@@ -1,0 +1,9 @@
+Build sensor-kinect
+
+mkdir build
+cd build
+cmake ../sensor-kinect
+make -j6
+
+
+
